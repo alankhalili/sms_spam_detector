@@ -31,7 +31,6 @@ Ensure you have the following installed:
 
 You can install the required Python packages using:
 
-```bash
 pip install scikit-learn pandas gradio
 
 ### Installation
