@@ -40,7 +40,7 @@ pip install scikit-learn pandas gradio
 
    ```bash
    git clone https://github.com/yourusername/sms-spam-classification.git
-   cd sms-spam-classification
+   cd sms-spam-classification'''
    
 ### Dataset
 
